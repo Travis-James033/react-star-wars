@@ -1,3 +1,5 @@
+ A React app that consumes a third-party API to populate its data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
